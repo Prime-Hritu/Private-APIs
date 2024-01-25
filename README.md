@@ -3,4 +3,4 @@
 # Under Development....
 
 ## Live At:
-https://prime-hritu.github.io/MyAPI_isComing/index.html
+https://private-apis.vercel.app
